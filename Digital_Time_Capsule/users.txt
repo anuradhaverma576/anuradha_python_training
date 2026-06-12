@@ -1,3 +1,0 @@
-anuradha,123456
-anuradha,12345
-pari,12345
